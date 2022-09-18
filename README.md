@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salauddinalfaruq&show_icons=true&locale=en&hide=contribs,prs&theme=tokyonight" alt="salauddinalfaruq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddinalfaruq&theme=dark" alt="salauddinalfaruq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddinalfaruq&theme=merko" alt="salauddinalfaruq" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salauddinalfaruq&label=Profile%20views&color=0e75b6&style=flat" alt="salauddinalfaruq" /> </p>
 
