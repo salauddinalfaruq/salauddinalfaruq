@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Software Tester and Automation Engineer.</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/salauddin_faruq" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/salauddin_faruq?logo=twitter&style=for-the-badge" alt="https://twitter.com/salauddin_faruq" /></a> </p>
-
 - 🔭 I’m currently working on **manual and automation testing.**
 
 - 🌱 I’m currently learning **java, selenium, cypress.**
