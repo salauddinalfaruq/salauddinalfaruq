@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salauddin Al-Faruq</h1>
 <h3 align="center">A passionate Software Tester and Automation Engineer.</h3>
 
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🔭 I’m currently working on **manual and automation testing.**
 
